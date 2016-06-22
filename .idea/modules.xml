@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer.iml" filepath="$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer_main.iml" group="pt2-soccer-league-organizer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pt2-soccer-league-organizer_test.iml" group="pt2-soccer-league-organizer" />
+    </modules>
+  </component>
+</project>
